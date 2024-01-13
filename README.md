@@ -1,7 +1,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/PedroFaria14" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ tackling significant challenges through technology. <br><br> Enthralled by the technological universe, I am consistently <strong>exploring innovations</strong> and applying that knowledge to develop high-quality solutions. Currently, I am a <strong>backend developer specializing in Java,</strong> dedicated to enhancing robust systems. Moreover, my goal is to become a <strong>full-stack developer,</strong> further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
+<p align="center">I ❤️ tackling significant challenges through technology. <br><br> Fascinated by the technological universe, I am constantly <strong>exploring innovations</strong> and applying that knowledge to develop high-quality solutions. Currently, I am a <strong>backend developer specialized in Java,</strong> dedicated to creating and enhancing robust systems. Additionally, my goal is to become a <strong>full-stack developer,</strong> further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroFaria&theme=radical&mode=weekly" />
