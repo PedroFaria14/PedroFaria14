@@ -26,7 +26,7 @@
 ![JavaFX](https://img.shields.io/badge/JavaFX-E34F26?style=for-the-badge&logo=JavaFX&logoColor=white)&nbsp;
 
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://br.pinterest.com/pin/887068457839181869/feedback/?invite_code=35defac854d449d6bfa23f7f434986f5&sender_id=707417191376585155" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Secondary Stack:
 
