@@ -4,7 +4,7 @@
 <p align="center">I ❤️ tackling significant challenges through technology. <br><br> Fascinated by the technological universe, I am constantly <strong>exploring innovations</strong> and applying that knowledge to develop high-quality solutions. Currently, I am a <strong>backend developer specialized in Java,</strong> dedicated to creating and enhancing robust systems. Additionally, my goal is to become a <strong>full-stack developer,</strong> further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Pedro=Faria14&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?user=PedroFaria14&show_icons=true&theme=synthwave)
 <div  align="center" style="margin-bottom:100px">
 
  
