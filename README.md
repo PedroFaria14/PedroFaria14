@@ -5,7 +5,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
- <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroFaria14&theme=synthwave&mode=weekly" />
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroFaria14&theme=cobalt&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=synthwave&layout=compact" />
 
 
