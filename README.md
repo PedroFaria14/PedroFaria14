@@ -73,7 +73,7 @@
 
 
  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40)
+
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:a82da8&height=120&section=footer"/>
