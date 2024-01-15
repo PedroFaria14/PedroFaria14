@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?color=blue)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 <p align="center">I ❤️ tackling significant challenges through technology. <br><br> Fascinated by the technological universe, I am constantly <strong>exploring innovations</strong> and applying that knowledge to develop high-quality solutions. Currently, I am a <strong>backend developer specialized in Java,</strong> dedicated to creating and enhancing robust systems. Additionally, my goal is to become a <strong>full-stack developer,</strong> further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
