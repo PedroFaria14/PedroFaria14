@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40)
 
-<p align="center">I love tackling significant challenges through technology. <br><br> Fascinated by the technological universe, I'm  Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
+<p align="center">I love tackling significant challenges through technology. <br><br> I'm  Fascinated by the technological universe, Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
 
 <div  align="center" style="margin-bottom:100px">
