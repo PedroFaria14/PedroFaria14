@@ -4,6 +4,13 @@
 <p align="center">I love tackling significant challenges through technology. <br><br> I'm  Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
 <div align="center" style="margin-bottom:100px">
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PedroFaria14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
   <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroFaria14&theme=tokyonight&mode=weekly" />
   <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
