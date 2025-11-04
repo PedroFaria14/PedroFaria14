@@ -3,17 +3,10 @@
 
 <p align="center">I love tackling significant challenges through technology. <br><br> I'm  Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp; 
 
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=PedroFaria14&theme=tokyonight&mode=weekly" />
-
- 
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=tokyonight&layout=compact" />
-
-
-
-
- </div>
+<div align="center" style="margin-bottom:100px">
+  <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=PedroFaria14&theme=tokyonight&mode=weekly" />
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
@@ -51,6 +44,8 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
+
 
 #### Databases:
 
@@ -59,7 +54,7 @@
 ![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
-#### 🚀 Blockchain & Emerging Tech:
+####  Emerging Tech:
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
 
 
