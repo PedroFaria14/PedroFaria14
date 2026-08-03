@@ -1,52 +1,103 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40)
 
-<p align="center">
-  <strong>Computer Engineering | Backend & Web3 Developer</strong><br><br>
-  Fascinated by the technological universe, I am constantly exploring innovations and applying knowledge to develop robust, high-quality solutions. I focus on building scalable backend architectures and decentralized applications, tackling significant challenges through technology.
-</p>
+<p align="center">I love tackling significant challenges through technology. <br><br> I'm  Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>&nbsp;
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=PedroFaria14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+<div align="center" style="margin-bottom:100px">
+
+  <img width=55% align="center" src="https://github-readme-stats.vercel.app/api?username=PedroFaria14&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+
+  <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=PedroFaria14&show_icons=true&theme=tokyonight&layout=compact" />
+
 </div>
 
-<br>
+&nbsp;
 
-### 🛠️ Tech Stack & Tools
+&nbsp;
 
-**Backend & Infrastructure:**<br>
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## My Skills
 
-**Web3 & Blockchain:**<br>
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF000?style=for-the-badge&logo=hardhat&logoColor=black)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+#### Main Stack:
 
-**Frontend & Languages:**<br>
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
-<br>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 
-### 🚀 Featured Projects
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-*   **Web3 Anonymous Messaging:** An experimental dApp featuring anonymous messaging, blockchain voting restrictions, and automated popularity rankings utilizing Smart Contracts, React, and MetaMask.
-*   **TechSnacks Architecture:** Software analysis and comprehensive UML system architecture documentation for a local business management platform.
-*   **Advanced Data Structures:** Custom C programming implementations of dynamically allocated ordered lists, stacks, queues, and AVL trees for academic engineering studies.
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
 
-<br>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 
-### 📫 Let's Connect!
+![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 
-<div align="center">
-  <a href="mailto:contato.pedrohfariap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-faria-039640245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Secondary Stack:
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
+
+![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)&nbsp;
+
+#### Studying in this moment:
+
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)&nbsp;
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
+
+#### Databases:
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+
+![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+
+#### Emerging Tech:
+
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+
+![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
+
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
+
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
+
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+
+&nbsp;
+
+&nbsp;
+
+## Contacts:
+
+<div>
+
+<a href = "mailto:contato.pedrohfariap@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<a href="[https://www.linkedin.com/in/pedro-faria-039640245//](https://www.linkedin.com/in/pedro-faria-039640245/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:a82da8&height=120&section=footer"/>
