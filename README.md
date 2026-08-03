@@ -1,17 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40)
-
 <div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40" alt="Header" />
+
+  <br>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A82DA8&center=true&vCenter=true&width=500&lines=Computer+Engineering;Backend+%26+Web3+Developer;Golang,+Docker+%26+Solidity" alt="Typing SVG" />
   </a>
-</div>
 
-<p align="center">I love tackling significant challenges through technology. <br><br> Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python , dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.</p>
+  <p>
+    I love tackling significant challenges through technology. <br><br> 
+    Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python, dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.
+  </p>
 
-<br>
+  <br>
 
-<div align="center">
   <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br><br>
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFaria14&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
