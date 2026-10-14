@@ -2,7 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0000FF,100:A82DA8&amp;height=200&amp;section=header&amp;text=Pedro%20Faria&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn" alt="Pedro Faria — GitHub Profile" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;pause=1000&amp;color=A82DA8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Software+Development+Intern+at+CPQD;Go+%7C+Python+%7C+React+%7C+TypeScript;Backend+%26+Full+Stack+Development;Computer+Engineering+Student" alt="Animated introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;pause=1000&amp;color=A82DA8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Software+Development+Intern+at+CPQD;Go+%7C+Python+%7C+React+%7C+TypeScript;Jenkins+%7C+CI%2FCD+%7C+Docker;Backend+%26+Full+Stack+Development;Computer+Engineering+Student" alt="Animated introduction" />
   </a>
 
   <p>
@@ -14,7 +14,11 @@
     I have a degree in <strong>Systems Analysis and Development</strong> and I'm currently studying <strong>Computer Engineering at Universidade São Francisco (USF)</strong>.
   </p>
   <p>
-    I enjoy building APIs, web applications and practical software solutions, learning new technologies, and solving problems with code.
+    My daily development workflow includes <strong>CI/CD practices with Jenkins</strong>, alongside tools such as <strong>Git and Docker</strong>.
+    I also work with <strong>PostgreSQL, MongoDB and SQL</strong>, as well as APIs and web applications.
+  </p>
+  <p>
+    I enjoy solving problems, writing maintainable code, and learning from other developers.
     I'm interested in <strong>Junior Software Engineering, Backend, Frontend and Full Stack</strong> opportunities.
   </p>
 
@@ -25,11 +29,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
 
-<br /><br />
+  <br /><br />
 
   <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
   <br /><br />
- 
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFaria14&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub activity graph" />
 </div>
 
 <br />
@@ -63,13 +67,23 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Database experience:** SQL and relational databases with PostgreSQL; NoSQL data with MongoDB and Firebase/Firestore.
+
+### CI/CD & DevOps
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-6A5ACD?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+I work with **Jenkins and CI/CD workflows in my day-to-day development activities**, supporting software integration and delivery processes.
 
 ### Tools & Development Environment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
@@ -88,23 +102,18 @@
 ## Featured Projects
 
 ### AsyncRunner — Async Job Processing
-
 A software project using **Go**, **Docker** and **React** to explore asynchronous job processing and worker-based execution.
 
 ### CodePath — Gamified Programming Education
-
 An educational application designed to make programming logic easier to learn. Built with **Python**, **FastAPI**, **Flutter** and **Firebase/Firestore**, with exercises and gamified learning features.
 
 ### TechSnacks — Commercial Management System
-
 An academic software engineering project focused on sales, orders and inventory management. Includes **React** interfaces, requirements analysis and software modeling.
 
 ### Web3 Anonymous Messaging
-
 An experimental decentralized application for anonymous messages and voting, using **React**, **Solidity** and **MetaMask**.
 
 ### Caminho Seguro — Blockchain & Child Safety
-
 A project exploring event-based child safety records using technologies such as **QR codes**, **Solana** and **PostgreSQL**, with a focus on data integrity and privacy.
 
 ---
