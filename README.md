@@ -16,7 +16,6 @@
 
   <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFaria14&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" />
 </div>
 
 <br>
