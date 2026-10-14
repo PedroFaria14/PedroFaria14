@@ -33,7 +33,7 @@
 
   <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
   <br /><br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFaria14&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="GitHub activity graph" />
+ 
 </div>
 
 <br />
