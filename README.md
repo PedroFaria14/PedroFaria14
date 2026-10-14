@@ -1,86 +1,136 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=Waving&color=0:0000FF,100:a82da8&height=200&section=header&text=Pedro%20Faria&fontSize=40" alt="Header" />
-
-  <br>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0000FF,100:A82DA8&amp;height=200&amp;section=header&amp;text=Pedro%20Faria&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn" alt="Pedro Faria — GitHub Profile" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=A82DA8&center=true&vCenter=true&width=500&lines=Computer+Engineering;Backend+%26+Web3+Developer;Golang,+Docker+%26+Solidity" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=21&amp;pause=1000&amp;color=A82DA8&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Software+Development+Intern+at+CPQD;Go+%7C+Python+%7C+React+%7C+TypeScript;Backend+%26+Full+Stack+Development;Computer+Engineering+Student" alt="Animated introduction" />
   </a>
 
   <p>
-    I love tackling significant challenges through technology. <br><br> 
-    Fascinated by the technological universe, I am constantly exploring innovations and applying that knowledge to develop high-quality solutions. Currently, I am starting as a backend developer specialized in Python, dedicated to creating and enhancing robust systems. Additionally, my goal is to become a full-stack developer, further expanding my ability to create comprehensive and innovative solutions.
+    <strong>Software Development Intern at CPQD</strong> | Backend &amp; Full Stack Development
   </p>
 
-  <br>
+  <p>
+    I work on software development and blockchain-related solutions at <strong>CPQD</strong>, contributing to front-end and back-end activities.
+    I have a degree in <strong>Systems Analysis and Development</strong> and I'm currently studying <strong>Computer Engineering at Universidade São Francisco (USF)</strong>.
+  </p>
+  <p>
+    I enjoy building APIs, web applications and practical software solutions, learning new technologies, and solving problems with code.
+    I'm interested in <strong>Junior Software Engineering, Backend, Frontend and Full Stack</strong> opportunities.
+  </p>
 
-  <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <br><br>
+  <a href="https://phfaria.com/">
+    <img src="https://img.shields.io/badge/Portfolio-phfaria.com-A82DA8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-faria-039640245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+
+<br /><br />
+
+  <img height="160" src="https://streak-stats.demolab.com/?user=PedroFaria14&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub contribution streak" />
+  <br /><br />
+ 
 </div>
 
-<br>
+<br />
 
 ## My Skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="300" align="right" alt="Programming illustration" />
 
-#### Main Stack:
-![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Node](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+### Main Stack
 
-#### Secondary Stack:
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;
-![Json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-#### Studying in this moment:
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)&nbsp;
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
+### Additional Languages & Frameworks
 
-#### Databases:
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-B22222?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-#### Emerging Tech:
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)&nbsp;
+### Databases
 
-#### Workstation Tools:
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<br clear="all">
-<br>
+### Tools & Development Environment
 
-### 🚀 Featured Projects
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-- **Web3 Anonymous Messaging:** An experimental dApp featuring anonymous messaging, blockchain voting restrictions, and automated popularity rankings utilizing Smart Contracts, React, and MetaMask.
-- **Caminho Seguro:** An event-based child protection platform developed for the UNICEF Brazil Youth Challenge Blockchain 2026. It logs key journey events (via QR Code, NFC, or BLE) without continuous tracking. To ensure data integrity, each event generates a SHA-256 hash registered on the Solana blockchain (SPL Memo Program), with operational data securely stored in PostgreSQL.
-- **CodePath:** A gamified mobile application designed to teach programming logic interactively. Inspired by Duolingo, it turns learning into a game where users progress through knowledge trails, earn rewards (coins and XP), and compete with peers.
+<br clear="all" />
 
-<br>
+### Currently Exploring
 
-## Contacts:
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchaindotcom&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white)
+
+---
+
+## Featured Projects
+
+### AsyncRunner — Async Job Processing
+
+A software project using **Go**, **Docker** and **React** to explore asynchronous job processing and worker-based execution.
+
+### CodePath — Gamified Programming Education
+
+An educational application designed to make programming logic easier to learn. Built with **Python**, **FastAPI**, **Flutter** and **Firebase/Firestore**, with exercises and gamified learning features.
+
+### TechSnacks — Commercial Management System
+
+An academic software engineering project focused on sales, orders and inventory management. Includes **React** interfaces, requirements analysis and software modeling.
+
+### Web3 Anonymous Messaging
+
+An experimental decentralized application for anonymous messages and voting, using **React**, **Solidity** and **MetaMask**.
+
+### Caminho Seguro — Blockchain & Child Safety
+
+A project exploring event-based child safety records using technologies such as **QR codes**, **Solana** and **PostgreSQL**, with a focus on data integrity and privacy.
+
+---
+
+## AI & Research Interests
+
+I also explore local AI applications and retrieval-augmented generation (**RAG**) with **LangChain**, **Qdrant** and **Ollama**, connecting language models with personal knowledge bases.
+
+---
+
+## Contact
 
 <div align="center">
-  <a href="mailto:contato.pedrohfariap@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pedro-faria-039640245/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:pedrohfariap@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-faria-039640245/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pedro_Faria-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://phfaria.com/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-A82DA8?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0000FF,100:a82da8&height=120&section=footer"/>
+<br />
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0000FF,100:A82DA8&amp;height=120&amp;section=footer" alt="Footer" />
+</div>
